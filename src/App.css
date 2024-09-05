@@ -1,0 +1,15 @@
+#img{
+ background-image: url("../public/ossama.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+/* App.css */
+.dark {
+  background-color: #333;
+  /* Dark background color */
+  color: #fff;
+  /* White text color */
+}
+
+/* Define other styles for dark mode elements as needed */
+
